@@ -16,7 +16,8 @@
 - Open-source tools and research in the AI and Data Science domain
   
 📫 How to reach me
-- Email: thore.wengerowski@icloud.com (german + english)
+- Email: thore.wengerowski@icloud.com
+- Discord: trewen_
 
 <!---
 t-weng99/t-weng99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
